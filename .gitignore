@@ -1,1 +1,11 @@
+#Ignore Dataset Directory
+/Dataset
+#Ignore ipynb checkpoints
+/.ipynb_checkpoints
 .ipynb_checkpoints
+#Ignore Model
+/Model
+#Ignore Trash
+/Trash
+#Ignore Checkpoints
+/checkpoints
